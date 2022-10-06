@@ -121,7 +121,7 @@ public class Basics {
      *
      *    Below, we provide descriptions of what the parameters are and details
      *    about what is returned.
-     *
+     * <p>
      * Create a String named 'ret' and get the first letter of
      * each word inside to_string. to_string is a String containing exactly
      * 7 words, separated by spaces.
